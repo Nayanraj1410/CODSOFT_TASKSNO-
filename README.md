@@ -12,9 +12,21 @@ Lightweight — no external dependencies, uses only Python's standard library
 A simple command-line Contact Book application built in Python. It lets you add, view, search, update, and delete contacts through an easy-to-use text menu.
 
 Features
-➕ Add Contact — store name, phone number, email, and address
-📋 View Contact List — displays all contacts sorted alphabetically by name
-🔍 Search Contact — find a contact by exact name or phone number match
-✏️ Update Contact — edit any field of an existing contact (leave input blank to keep the current value)
-❌ Delete Contact — remove a contact by its list number
-🚪 Exit — quit the program
+ Add Contact — store name, phone number, email, and address
+ View Contact List — displays all contacts sorted alphabetically by name
+ Search Contact — find a contact by exact name or phone number match
+ Update Contact — edit any field of an existing contact (leave input blank to keep the current value)
+ Delete Contact — remove a contact by its list number
+ Exit — quit the program
+
+# Calculator 
+
+A simple command-line Calculator built in Python using match-case statements. It takes two numbers as input and performs a basic arithmetic operation chosen by the user.
+
+Features
++ Addition
+- Subtraction
+* Multiplication
+/ Division (with divide-by-zero check)
+% Modulus
+** Exponentiation
