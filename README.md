@@ -6,3 +6,15 @@ Features
 Generates random passwords of any desired length
 Includes uppercase letters, lowercase letters, digits, and special characters
 Lightweight — no external dependencies, uses only Python's standard library
+
+# Contact Management System 📒
+
+A simple command-line Contact Book application built in Python. It lets you add, view, search, update, and delete contacts through an easy-to-use text menu.
+
+Features
+➕ Add Contact — store name, phone number, email, and address
+📋 View Contact List — displays all contacts sorted alphabetically by name
+🔍 Search Contact — find a contact by exact name or phone number match
+✏️ Update Contact — edit any field of an existing contact (leave input blank to keep the current value)
+❌ Delete Contact — remove a contact by its list number
+🚪 Exit — quit the program
