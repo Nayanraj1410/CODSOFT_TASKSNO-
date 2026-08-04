@@ -30,3 +30,15 @@ Features
 / Division (with divide-by-zero check)
 % Modulus
 ** Exponentiation
+
+# To-Do List Application
+
+A simple command-line to-do list manager written in Python. Add, view, update, delete, and complete tasks — all from the terminal.
+
+Features
+Add Task – Add a new task to your list.
+View Tasks – Display all tasks with their status (Pending / Completed).
+Update Task – Edit the text of an existing task.
+Delete Task – Remove a task from the list.
+Mark Task as Complete – Flag a task as done.
+Exit – Close the application.
